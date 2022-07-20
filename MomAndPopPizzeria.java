@@ -28,8 +28,6 @@ private JTextField nameTextfield;
 
 private JTextField passwordTextfield;
 
-private JTextField addressTextfield;
-
 private JTextField amountTextfield;
 
   
